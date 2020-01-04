@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+  <title>WASLab04 Lyric Search</title>
+  <link rel="stylesheet" type="text/css" href="lyrics.css">
+</head>
+<body>
+  <h1 style="text-align: center">WASLab04 Lyric Search</h1>
+  <div id="top">
+    <table style="margin-left: auto; margin-right: auto;">
+      <tr><td class="selector">Showing lyrics that contain the following text: </td><td> 
+        <input type="search" id ="content" onchange="showSongs()" class="selector" value="stairway to heaven" size="40">
+      </td></tr>
+    </table>
+  </div>
+  <div id="main">
+    <div id="left"></div>
+    <div id="right"></div>
+  </div>
+  <script src="lyrics.js" type="application/javascript"></script>
+</body>
+</html>

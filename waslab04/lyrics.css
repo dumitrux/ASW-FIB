@@ -1,0 +1,50 @@
+body {
+  font-family: Helvetica,Arial,Sans-Serif;
+  font-size: 12pt;
+  margin: 2em;
+}
+#left {
+  width: 30%;
+  float: left;
+  height: 500px;
+  overflow-y:scroll;
+}
+#right {
+  text-align: center;
+  height: 500px;
+  overflow-y:scroll;
+  margin: 20px 0px;
+}
+
+#top {
+  margin-top: 2.5m;
+  margin-bottom: 3em;
+}
+td {
+  padding: 4px;
+}
+li {
+  font-size: 120%;
+  line-height: 200%;
+}
+.selector {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+input {
+  color: blue;
+}
+
+.col {
+  display: inline-flex;
+}
+
+.titols {
+  display: inline;
+  margin: 0px 25px;
+}
+
+#lyrics {
+  margin: 15px 70px;
+}
