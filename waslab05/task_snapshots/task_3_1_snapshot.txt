@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Green Day",
+                "url": "http://twitter.com/search?q=%22Green+Day%22",
+                "promoted_content": null,
+                "query": "%22Green+Day%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#RegalaPlayStation",
+                "url": "http://twitter.com/search?q=%23RegalaPlayStation",
+                "promoted_content": null,
+                "query": "%23RegalaPlayStation",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BarcelonaArde",
+                "url": "http://twitter.com/search?q=%23BarcelonaArde",
+                "promoted_content": null,
+                "query": "%23BarcelonaArde",
+                "tweet_volume": 15756
+            },
+            {
+                "name": "#TsunamiTERRORISTA",
+                "url": "http://twitter.com/search?q=%23TsunamiTERRORISTA",
+                "promoted_content": null,
+                "query": "%23TsunamiTERRORISTA",
+                "tweet_volume": 15997
+            },
+            {
+                "name": "#FelizJueves",
+                "url": "http://twitter.com/search?q=%23FelizJueves",
+                "promoted_content": null,
+                "query": "%23FelizJueves",
+                "tweet_volume": 22538
+            },
+            {
+                "name": "Marlaska",
+                "url": "http://twitter.com/search?q=Marlaska",
+                "promoted_content": null,
+                "query": "Marlaska",
+                "tweet_volume": 70740
+            },
+            {
+                "name": "Cataluña",
+                "url": "http://twitter.com/search?q=Catalu%C3%B1a",
+                "promoted_content": null,
+                "query": "Catalu%C3%B1a",
+                "tweet_volume": 325176
+            },
+            {
+                "name": "Torra",
+                "url": "http://twitter.com/search?q=Torra",
+                "promoted_content": null,
+                "query": "Torra",
+                "tweet_volume": 173991
+            },
+            {
+                "name": "#OFERTÁSTICASPhoneHouse",
+                "url": "http://twitter.com/search?q=%23OFERT%C3%81STICASPhoneHouse",
+                "promoted_content": null,
+                "query": "%23OFERT%C3%81STICASPhoneHouse",
+                "tweet_volume": null
+            },
+            {
+                "name": "chueca",
+                "url": "http://twitter.com/search?q=chueca",
+                "promoted_content": null,
+                "query": "chueca",
+                "tweet_volume": 27850
+            },
+            {
+                "name": "Miami",
+                "url": "http://twitter.com/search?q=Miami",
+                "promoted_content": null,
+                "query": "Miami",
+                "tweet_volume": 51687
+            },
+            {
+                "name": "Inda",
+                "url": "http://twitter.com/search?q=Inda",
+                "promoted_content": null,
+                "query": "Inda",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alepo",
+                "url": "http://twitter.com/search?q=Alepo",
+                "promoted_content": null,
+                "query": "Alepo",
+                "tweet_volume": null
+            },
+            {
+                "name": "Madrid Arena",
+                "url": "http://twitter.com/search?q=%22Madrid+Arena%22",
+                "promoted_content": null,
+                "query": "%22Madrid+Arena%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ERES MI GANADORA",
+                "url": "http://twitter.com/search?q=%22ERES+MI+GANADORA%22",
+                "promoted_content": null,
+                "query": "%22ERES+MI+GANADORA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "The Last of Us 2",
+                "url": "http://twitter.com/search?q=%22The+Last+of+Us+2%22",
+                "promoted_content": null,
+                "query": "%22The+Last+of+Us+2%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Teodoro",
+                "url": "http://twitter.com/search?q=Teodoro",
+                "promoted_content": null,
+                "query": "Teodoro",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ángel Pérez García",
+                "url": "http://twitter.com/search?q=%22%C3%81ngel+P%C3%A9rez+Garc%C3%ADa%22",
+                "promoted_content": null,
+                "query": "%22%C3%81ngel+P%C3%A9rez+Garc%C3%ADa%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Erradicación de la Pobreza",
+                "url": "http://twitter.com/search?q=%22Erradicaci%C3%B3n+de+la+Pobreza%22",
+                "promoted_content": null,
+                "query": "%22Erradicaci%C3%B3n+de+la+Pobreza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Carlos Tartiere",
+                "url": "http://twitter.com/search?q=%22Carlos+Tartiere%22",
+                "promoted_content": null,
+                "query": "%22Carlos+Tartiere%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jornada 16",
+                "url": "http://twitter.com/search?q=%22Jornada+16%22",
+                "promoted_content": null,
+                "query": "%22Jornada+16%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Suspendidas 109",
+                "url": "http://twitter.com/search?q=%22Suspendidas+109%22",
+                "promoted_content": null,
+                "query": "%22Suspendidas+109%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ignacio González",
+                "url": "http://twitter.com/search?q=%22Ignacio+Gonz%C3%A1lez%22",
+                "promoted_content": null,
+                "query": "%22Ignacio+Gonz%C3%A1lez%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Riverland",
+                "url": "http://twitter.com/search?q=Riverland",
+                "promoted_content": null,
+                "query": "Riverland",
+                "tweet_volume": null
+            },
+            {
+                "name": "FIFA Points",
+                "url": "http://twitter.com/search?q=%22FIFA+Points%22",
+                "promoted_content": null,
+                "query": "%22FIFA+Points%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "El Sescam",
+                "url": "http://twitter.com/search?q=%22El+Sescam%22",
+                "promoted_content": null,
+                "query": "%22El+Sescam%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "válgame dios",
+                "url": "http://twitter.com/search?q=%22v%C3%A1lgame+dios%22",
+                "promoted_content": null,
+                "query": "%22v%C3%A1lgame+dios%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "FFVII Remake",
+                "url": "http://twitter.com/search?q=%22FFVII+Remake%22",
+                "promoted_content": null,
+                "query": "%22FFVII+Remake%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Portugalete",
+                "url": "http://twitter.com/search?q=Portugalete",
+                "promoted_content": null,
+                "query": "Portugalete",
+                "tweet_volume": null
+            },
+            {
+                "name": "Miguel Delibes",
+                "url": "http://twitter.com/search?q=%22Miguel+Delibes%22",
+                "promoted_content": null,
+                "query": "%22Miguel+Delibes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Antigua Roma",
+                "url": "http://twitter.com/search?q=%22Antigua+Roma%22",
+                "promoted_content": null,
+                "query": "%22Antigua+Roma%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#laruletadelasuerte",
+                "url": "http://twitter.com/search?q=%23laruletadelasuerte",
+                "promoted_content": null,
+                "query": "%23laruletadelasuerte",
+                "tweet_volume": null
+            },
+            {
+                "name": "#YoSoyAdarista",
+                "url": "http://twitter.com/search?q=%23YoSoyAdarista",
+                "promoted_content": null,
+                "query": "%23YoSoyAdarista",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GHVIP17O",
+                "url": "http://twitter.com/search?q=%23GHVIP17O",
+                "promoted_content": null,
+                "query": "%23GHVIP17O",
+                "tweet_volume": 14142
+            },
+            {
+                "name": "#yaesmediodia341",
+                "url": "http://twitter.com/search?q=%23yaesmediodia341",
+                "promoted_content": null,
+                "query": "%23yaesmediodia341",
+                "tweet_volume": null
+            },
+            {
+                "name": "#diamundialcontraeldolor",
+                "url": "http://twitter.com/search?q=%23diamundialcontraeldolor",
+                "promoted_content": null,
+                "query": "%23diamundialcontraeldolor",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BrexitDeal",
+                "url": "http://twitter.com/search?q=%23BrexitDeal",
+                "promoted_content": null,
+                "query": "%23BrexitDeal",
+                "tweet_volume": 43051
+            },
+            {
+                "name": "#EsperandoVuela",
+                "url": "http://twitter.com/search?q=%23EsperandoVuela",
+                "promoted_content": null,
+                "query": "%23EsperandoVuela",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CentenarioMetro",
+                "url": "http://twitter.com/search?q=%23CentenarioMetro",
+                "promoted_content": null,
+                "query": "%23CentenarioMetro",
+                "tweet_volume": null
+            },
+            {
+                "name": "#PSStore",
+                "url": "http://twitter.com/search?q=%23PSStore",
+                "promoted_content": null,
+                "query": "%23PSStore",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BigDAtaAI19",
+                "url": "http://twitter.com/search?q=%23BigDAtaAI19",
+                "promoted_content": null,
+                "query": "%23BigDAtaAI19",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WorldsconOrange",
+                "url": "http://twitter.com/search?q=%23WorldsconOrange",
+                "promoted_content": null,
+                "query": "%23WorldsconOrange",
+                "tweet_volume": null
+            },
+            {
+                "name": "#mtvworldstage",
+                "url": "http://twitter.com/search?q=%23mtvworldstage",
+                "promoted_content": null,
+                "query": "%23mtvworldstage",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GraciasALosVideojuegos",
+                "url": "http://twitter.com/search?q=%23GraciasALosVideojuegos",
+                "promoted_content": null,
+                "query": "%23GraciasALosVideojuegos",
+                "tweet_volume": null
+            },
+            {
+                "name": "#OTMallorca",
+                "url": "http://twitter.com/search?q=%23OTMallorca",
+                "promoted_content": null,
+                "query": "%23OTMallorca",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CorporateLearning19",
+                "url": "http://twitter.com/search?q=%23CorporateLearning19",
+                "promoted_content": null,
+                "query": "%23CorporateLearning19",
+                "tweet_volume": null
+            },
+            {
+                "name": "#inktoberday17",
+                "url": "http://twitter.com/search?q=%23inktoberday17",
+                "promoted_content": null,
+                "query": "%23inktoberday17",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MoJoEFEUOC",
+                "url": "http://twitter.com/search?q=%23MoJoEFEUOC",
+                "promoted_content": null,
+                "query": "%23MoJoEFEUOC",
+                "tweet_volume": null
+            },
+            {
+                "name": "#sefh19",
+                "url": "http://twitter.com/search?q=%23sefh19",
+                "promoted_content": null,
+                "query": "%23sefh19",
+                "tweet_volume": null
+            },
+            {
+                "name": "#PlenoAsamblea",
+                "url": "http://twitter.com/search?q=%23PlenoAsamblea",
+                "promoted_content": null,
+                "query": "%23PlenoAsamblea",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2019-10-17T13:07:17Z",
+        "created_at": "2019-10-17T13:03:45Z",
+        "locations": [
+            {
+                "name": "Seville",
+                "woeid": 774508
+            }
+        ]
+    }
+]

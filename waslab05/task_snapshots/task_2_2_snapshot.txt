@@ -1,0 +1,31 @@
+{
+    "relationship": {
+        "source": {
+            "id": 158342368,
+            "id_str": "158342368",
+            "screen_name": "Pablo_Iglesias_",
+            "following": false,
+            "followed_by": true,
+            "live_following": false,
+            "following_received": null,
+            "following_requested": null,
+            "notifications_enabled": null,
+            "can_dm": true,
+            "blocking": null,
+            "blocked_by": null,
+            "muting": null,
+            "want_retweets": null,
+            "all_replies": null,
+            "marked_spam": null
+        },
+        "target": {
+            "id": 482389606,
+            "id_str": "482389606",
+            "screen_name": "ierrejon",
+            "following": true,
+            "followed_by": false,
+            "following_received": null,
+            "following_requested": null
+        }
+    }
+}

@@ -1,0 +1,655 @@
+[
+    {
+        "id": 46463099,
+        "id_str": "46463099",
+        "name": "Seb",
+        "screen_name": "fitzecarraldo76",
+        "location": "Germany / Vietnam",
+        "description": "Freelance IT Consultant, Entrepreneur and everything in between",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 587,
+        "friends_count": 1240,
+        "listed_count": 45,
+        "created_at": "Thu Jun 11 19:11:03 +0000 2009",
+        "favourites_count": 2266,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7123,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Oct 15 16:42:01 +0000 2019",
+            "id": 1184147427508531201,
+            "id_str": "1184147427508531201",
+            "text": "3,2,1.... reserving Reinvent sessions ⏰",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075125027/14638_197925528277_522528277_4020800_5849288_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075125027/14638_197925528277_522528277_4020800_5849288_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 4204013255,
+        "id_str": "4204013255",
+        "name": "Annamaria Pérez",
+        "screen_name": "annamariapere10",
+        "location": "Barcelona",
+        "description": "Advisor officer. Teacher trainer. #EDUREGIO #EUDigitalEducation #Dataprotection #Digitalcitizenship #medialiteracy  #Erasmusplus #Europeana evangelist Barcelona",
+        "url": "https://t.co/6T4q3Wgyqf",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6T4q3Wgyqf",
+                        "expanded_url": "http://clilandgamification.edublogs.org",
+                        "display_url": "clilandgamification.edublogs.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1660,
+        "friends_count": 4526,
+        "listed_count": 135,
+        "created_at": "Mon Nov 16 19:14:24 +0000 2015",
+        "favourites_count": 7397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6549,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Oct 16 06:53:23 +0000 2019",
+            "id": 1184361680312111105,
+            "id_str": "1184361680312111105",
+            "text": "RT @ricardgarcia5: The 5 C's for successful innovation in education... we can use it also in any ESL or ICT project we take up #i_Lingua21…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "i_Lingua21",
+                        "indices": [
+                            127,
+                            138
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ricardgarcia5",
+                        "name": "Ricard Garcia",
+                        "id": 106659938,
+                        "id_str": "106659938",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 16 06:14:44 +0000 2019",
+                "id": 1184351952425107456,
+                "id_str": "1184351952425107456",
+                "text": "The 5 C's for successful innovation in education... we can use it also in any ESL or ICT project we take up… https://t.co/zpeFUaC4cl",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/zpeFUaC4cl",
+                            "expanded_url": "https://twitter.com/i/web/status/1184351952425107456",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                109,
+                                132
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015330045773033472/cEH2Esg1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015330045773033472/cEH2Esg1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4204013255/1566041068",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 152698214,
+        "id_str": "152698214",
+        "name": "Leantros #TorraNotMyPresident",
+        "screen_name": "Kataphraktes",
+        "location": "Esten polis",
+        "description": "Le chute dans le temps-Cioran",
+        "url": "https://t.co/04WQnzKVWY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/04WQnzKVWY",
+                        "expanded_url": "https://lobosypumas.wordpress.com/",
+                        "display_url": "lobosypumas.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1292,
+        "friends_count": 4995,
+        "listed_count": 64,
+        "created_at": "Sun Jun 06 16:58:05 +0000 2010",
+        "favourites_count": 304257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 219895,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Oct 17 12:34:38 +0000 2019",
+            "id": 1184809947638517762,
+            "id_str": "1184809947638517762",
+            "text": "RT @MiguelRosaR: QUE ARDA GRÀCIA https://t.co/YBEdZaD7WM",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MiguelRosaR",
+                        "name": "Migu Rows",
+                        "id": 114698927,
+                        "id_str": "114698927",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/YBEdZaD7WM",
+                        "expanded_url": "https://twitter.com/MarqMarti/status/1184775911423516673",
+                        "display_url": "twitter.com/MarqMarti/stat…",
+                        "indices": [
+                            33,
+                            56
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Oct 17 11:59:04 +0000 2019",
+                "id": 1184800996029075456,
+                "id_str": "1184800996029075456",
+                "text": "QUE ARDA GRÀCIA https://t.co/YBEdZaD7WM",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/YBEdZaD7WM",
+                            "expanded_url": "https://twitter.com/MarqMarti/status/1184775911423516673",
+                            "display_url": "twitter.com/MarqMarti/stat…",
+                            "indices": [
+                                16,
+                                39
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1184775911423516673,
+                "quoted_status_id_str": "1184775911423516673",
+                "retweet_count": 2,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ca"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1184775911423516673,
+            "quoted_status_id_str": "1184775911423516673",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ca"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/916107891530256384/RI82-6IF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/916107891530256384/RI82-6IF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/152698214/1406679563",
+        "profile_link_color": "B300B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 882261282,
+        "id_str": "882261282",
+        "name": "S Therriault",
+        "screen_name": "Serdesize",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 59,
+        "listed_count": 0,
+        "created_at": "Mon Oct 15 12:57:46 +0000 2012",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Oct 10 13:07:08 +0000 2013",
+            "id": 388289594942181378,
+            "id_str": "388289594942181378",
+            "text": "Get it free: One Free Month Of Train Simple https://t.co/r2zQNQC9aw via @StackSocial",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "StackSocial",
+                        "name": "StackSocial",
+                        "id": 243742269,
+                        "id_str": "243742269",
+                        "indices": [
+                            72,
+                            84
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/r2zQNQC9aw",
+                        "expanded_url": "https://stacksocial.com/sales/one-free-month-of-train-simple?rid=520877",
+                        "display_url": "stacksocial.com/sales/one-free…",
+                        "indices": [
+                            44,
+                            67
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2721890739/81b648afa9863850c839aad01cd13dfc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2721890739/81b648afa9863850c839aad01cd13dfc_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/882261282/1366639866",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    {
+        "id": 297900737,
+        "id_str": "297900737",
+        "name": "Sergi Nadal",
+        "screen_name": "SergiNadalF",
+        "location": "Igualada, España",
+        "description": "Postdoc and teaching assistant at @la_UPC. Doing research on data and information management.",
+        "url": "https://t.co/V4obTrNanb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/V4obTrNanb",
+                        "expanded_url": "http://www.essi.upc.edu/~snadal",
+                        "display_url": "essi.upc.edu/~snadal",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 125,
+        "friends_count": 473,
+        "listed_count": 7,
+        "created_at": "Fri May 13 09:45:52 +0000 2011",
+        "favourites_count": 148,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 232,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Oct 12 16:45:26 +0000 2019",
+            "id": 1183061121458155523,
+            "id_str": "1183061121458155523",
+            "text": "RT @Sukant_Khurana: This is the rejection letter for the work that just won the Nobel Prize. \n\nBelieve in yourself. \n\nEveryone else will ca…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Sukant_Khurana",
+                        "name": "Dr. Sukant Khurana",
+                        "id": 1396059595,
+                        "id_str": "1396059595",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Oct 12 04:00:44 +0000 2019",
+                "id": 1182868678355800064,
+                "id_str": "1182868678355800064",
+                "text": "This is the rejection letter for the work that just won the Nobel Prize. \n\nBelieve in yourself. \n\nEveryone else wil… https://t.co/CO0Rsip8sV",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/CO0Rsip8sV",
+                            "expanded_url": "https://twitter.com/i/web/status/1182868678355800064",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "317fcc4b21a604d5",
+                    "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+                    "place_type": "city",
+                    "name": "Nueva Delhi",
+                    "full_name": "Nueva Delhi, भारत",
+                    "country_code": "IN",
+                    "country": "भारत",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    76.84252,
+                                    28.397657
+                                ],
+                                [
+                                    77.347652,
+                                    28.397657
+                                ],
+                                [
+                                    77.347652,
+                                    28.879322
+                                ],
+                                [
+                                    76.84252,
+                                    28.879322
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 21537,
+                "favorite_count": 85222,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 21537,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697013613475852288/FMVUqL5S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697013613475852288/FMVUqL5S_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    }
+]
