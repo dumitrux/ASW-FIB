@@ -11,3 +11,5 @@
 - [Primer lliurament](https://github.com/dumitrux/Rails-Issue-Tracker) - Rails-Issue-Tracker
 
 - [Segon lliurament](https://github.com/dumitrux/API-REST-Issue-Tracker) - API-REST-Issue-Tracker
+
+- [Tercer lliurament](https://github.com/dumitrux/Angular-Issue-Tracker) - Angular-Issue-Tracker
